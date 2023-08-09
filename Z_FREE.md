@@ -2,7 +2,7 @@
 
 
 
-![img1](img\img1.jpg)
+![img1](img/img1.jpg)
 
 欢迎来到Z_FREE
 
@@ -23,7 +23,7 @@
 
 
 
-![img0](img\img0.jpeg)
+![img0](img/img0.jpeg)
 
 
 
